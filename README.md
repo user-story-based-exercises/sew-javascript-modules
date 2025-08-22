@@ -21,19 +21,7 @@
 
 - A function accepts a color in any of the supported formats (see User Story 1) and converts it in the desired output format.
 - The function is part of a JS Module and exported using a **default export**. 
-- A simple JS Script is available, which tests the function.   
-
-
-
-## Previous User Story 2 (for all of you, who have started working already, otherwise you can implement the new User Story 2)
-
-*As a web developer, I want to easily save a color and get different RGB color notations.*
-
-- A JS Module is available, which exports a JS Class as **default**. 
-  - The constructor accepts a color either in hex or in rgb() functional notation.
-  - The class has three methods which return the color as hex value, as rgb() with number values and as rgb() with percentage values.
-  - The class uses the helper functions of User Story 1.
-- A simple JS Script is available, which runs tests the module.   
+- A simple JS Script is available, which tests the function.    
 
 ## Skill(s)
 
