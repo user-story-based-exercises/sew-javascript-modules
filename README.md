@@ -19,9 +19,22 @@
 
 *As a web developer, I want to perform automatic conversion between different color notations.*
 
+
+### Acceptance Criteria
+
 - A function accepts a color in any of the supported formats (see User Story 1) and converts it in the desired output format.
 - The function is part of a JS Module and exported using a **default export**. 
 - A simple JS Script is available, which tests the function.    
+
+## User Story 3
+
+*As a web developer, I want to define a set of main colors, so that they can be reused consistently across the application.*
+
+### Acceptance Criteria
+
+- Three colors are defined to the module, which has been created in user story 2.
+- The colors can be accessed outside of the module.
+  
 
 ## Skill(s)
 
